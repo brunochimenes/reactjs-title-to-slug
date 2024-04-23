@@ -19,7 +19,7 @@ O projeto foi desenvolvido durante o evento React na prática com objetivo de cr
 ## 📱 Demo
 
 <p align="center">
-<img width='600' height='500' alt="Demo" src="/.github/assets/demo.gif" />  
+<img width='800' height='450' alt="Demo" src="/.github/assets/demo.gif" />  
 </p>
 
 ## ⚠️ Pré-requisitos
